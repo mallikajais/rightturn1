@@ -1,0 +1,243 @@
+.s1{
+			background-image: url(Pictures/about1.jpg);
+			background-blend-mode: overlay;
+			background-size: cover;
+			background-repeat: no-repeat;
+			height: 100vh;
+			background-position: center;
+		}
+.b{
+	background-color: #0000009e;;
+	height: 100vh;
+}
+a:active {
+  color: orange;
+}
+#menubar{
+    background-color: white;
+    width: 70%;
+    padding-left: 10px;
+    margin-left: 60px;
+    margin-right: 65px;
+    color: black;
+    border-top: 3px solid orange;
+    
+}
+.s2{
+			background-image: url(Pictures/services.jpg);
+			
+			background-size: cover;
+			background-repeat: no-repeat;
+			height: 100vh;
+			background-position: center;
+		}
+.img{
+	vertical-align: middle;
+    border-style: none;
+    width: 20px;
+    height: 10vh;
+}
+.bg-text{
+	position: absolute;
+	border :1px solid gray;
+}
+.bg1{
+	background-image: url(Downloads/banner.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	background-position: center;
+}
+.back{
+	background-image: url(Pictures/back.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	background-position: center;
+}
+.back1{
+	background-color: rgba(0,0,0,0.59);
+	height: 60vh;
+	width: 60%;
+	margin-left:80px;
+	padding-top: 20px;
+	object-position: 22px 49%;
+	border:3px solid orange;
+	position: relative;
+	z-index: 9;
+	
+}
+.slow-transition {
+  box-shadow: 0 0 0px 0 rgba(0, 0, 0, 0.3);
+  transition: box-shadow 500ms;
+}
+
+.slow-transition:hover {
+  box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.5);
+}
+.s3{
+	background-image: url(Pictures/a7.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	background-position: center;
+}
+.s4{
+	background-image: url(Pictures/contact.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	background-position: center;
+}
+
+.wall{
+	height:40vh;
+	margin:0 50px 55px 40px;
+	background-image: url(Pictures/wall.jpg);
+	background-size: cover;
+	width: 80%;
+}
+.wall1{
+	background:#000000ad;
+	width: 100%;
+	height: 40vh;
+	
+}
+.a5{
+	height:40vh;
+	margin:0 50px 55px 40px;
+	background-image: url(Pictures/a5.jpg);
+	background-size: cover;
+	width: 80%;
+}
+.a51{
+	background:#000000ad;
+	width: 100%;
+	height: 40vh;
+	
+}
+.a6{
+	height:40vh;
+	margin:0 50px 55px 40px;
+	background-image: url(Pictures/a6.jpg);
+	background-size: cover;
+	width: 80%;
+}
+.a61{
+	background:#000000ad;
+	width: 100%;
+	height: 40vh;
+	
+}
+.a4{
+	height:40vh;
+	margin:0 50px 55px 40px;
+	background-image: url(Pictures/a4.jpg);
+	background-size: cover;
+	width: 80%;
+}
+.a41{
+	background:#000000ad;
+	width: 100%;
+	height: 40vh;
+	
+}
+.a3{
+	height:40vh;
+	margin:0 50px 55px 40px;
+	background-image: url(Pictures/a3.jpg);
+	background-size: cover;
+	width: 80%;
+}
+.a31{
+	background:#000000ad;
+	width: 100%;
+	height: 40vh;
+	
+}
+.a2{
+	height:40vh;
+	margin:0 50px 55px 40px;
+	background-image: url(Pictures/a3.jpg);
+	background-size: cover;
+	width: 80%;
+	
+}
+.a21{
+	background:#000000ad;
+	width: 100%;
+	height: 40vh;
+	
+}
+.parallax{
+	background-image: url(Pictures/cta-home.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 86vh;
+	background-position: center;
+
+
+}
+h1 
+{
+	margin-bottom: 0;
+}
+.wrapper{
+	overflow: hidden;
+	z-index: 9999;
+	position: absolute;
+	text-align: center;
+	width: 100%;
+}
+.btn{
+    margin: 5px;
+   	text-align: center;
+    color: black;
+    background-color:#d48c08;
+	border-radius: 4px;
+	border: 2px solid black;
+	font-size: 20px;
+	padding: 20px;
+	width: 200px;
+	transition: all 0.5s;
+	cursor: pointer;
+  
+}
+.btn span{
+    position: relative;
+    transition: 0.5s;
+    display: inline-block;
+}
+.btn:hover span {
+    padding-right: 25px;
+}
+.btn:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+.btn span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+.button2{
+	background-color:#736e6c00;
+	color: orange;
+	border: 2px solid orange;
+	font-size: 30px; 
+}
+.footer{
+	background-color: black;
+	height: 10vh;
+	width: 100%;
+	color: white;
+	padding-left: 50px;
+	padding: 18px;
+}
