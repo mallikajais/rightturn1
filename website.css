@@ -1,5 +1,5 @@
 .s1{
-			background-image: url(Pictures/about1.jpg);
+			background-image: url(about1.jpg);
 			background-blend-mode: overlay;
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -24,7 +24,7 @@ a:active {
     
 }
 .s2{
-			background-image: url(Pictures/services.jpg);
+			background-image: url(services.jpg);
 			
 			background-size: cover;
 			background-repeat: no-repeat;
@@ -50,7 +50,7 @@ a:active {
 	background-position: center;
 }
 .back{
-	background-image: url(Pictures/back.jpg);
+	background-image: url(back.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -78,7 +78,7 @@ a:active {
   box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.5);
 }
 .s3{
-	background-image: url(Pictures/a7.jpg);
+	background-image: url(a7.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -86,7 +86,7 @@ a:active {
 	background-position: center;
 }
 .s4{
-	background-image: url(Pictures/contact.jpg);
+	background-image: url(contact.jpg);
 	height: 100vh;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -97,7 +97,7 @@ a:active {
 .wall{
 	height:40vh;
 	margin:0 50px 55px 40px;
-	background-image: url(Pictures/wall.jpg);
+	background-image: url(wall.jpg);
 	background-size: cover;
 	width: 80%;
 }
@@ -110,7 +110,7 @@ a:active {
 .a5{
 	height:40vh;
 	margin:0 50px 55px 40px;
-	background-image: url(Pictures/a5.jpg);
+	background-image: url(a5.jpg);
 	background-size: cover;
 	width: 80%;
 }
@@ -123,7 +123,7 @@ a:active {
 .a6{
 	height:40vh;
 	margin:0 50px 55px 40px;
-	background-image: url(Pictures/a6.jpg);
+	background-image: url(a6.jpg);
 	background-size: cover;
 	width: 80%;
 }
@@ -136,7 +136,7 @@ a:active {
 .a4{
 	height:40vh;
 	margin:0 50px 55px 40px;
-	background-image: url(Pictures/a4.jpg);
+	background-image: url(a4.jpg);
 	background-size: cover;
 	width: 80%;
 }
@@ -149,7 +149,7 @@ a:active {
 .a3{
 	height:40vh;
 	margin:0 50px 55px 40px;
-	background-image: url(Pictures/a3.jpg);
+	background-image: url(a3.jpg);
 	background-size: cover;
 	width: 80%;
 }
@@ -162,7 +162,7 @@ a:active {
 .a2{
 	height:40vh;
 	margin:0 50px 55px 40px;
-	background-image: url(Pictures/a3.jpg);
+	background-image: url(a3.jpg);
 	background-size: cover;
 	width: 80%;
 	
@@ -174,7 +174,7 @@ a:active {
 	
 }
 .parallax{
-	background-image: url(Pictures/cta-home.jpg);
+	background-image: url(cta-home.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 86vh;
